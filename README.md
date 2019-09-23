@@ -1,6 +1,5 @@
 # CTF_WriteUps
 
-pwnable.kr      -     http://pwnable.kr
+RedpwnCTF 2019            -   https://redpwn.net/ ,  https://ctftime.org/event/834
 
-RedpwnCTF 2019  -     https://redpwn.net/
-
+Newark Academy CTF 2019   -   https://www.nactf.com , https://ctftime.org/event/869
